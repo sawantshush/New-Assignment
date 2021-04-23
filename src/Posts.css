@@ -1,0 +1,31 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 12px;
+    margin: 20px;
+    
+    
+}
+
+.item{
+    min-height: 100px;
+    background-color: #eee;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+}
+
+.details{
+    color: gray;
+    font-weight: 800;
+}
+
+.details_right{
+    float: right;
+    width: 100px;
+}
+
+.details_header{
+    text-align: center;
+    font-weight: 800;
+}

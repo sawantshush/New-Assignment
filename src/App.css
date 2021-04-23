@@ -1,0 +1,12 @@
+body{
+  /* background:rgba(13,37,91,1); */
+
+
+background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173); 
+
+}
+
+.app_header{
+  color:white;
+  text-align: center;
+}
