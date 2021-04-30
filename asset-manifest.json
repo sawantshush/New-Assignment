@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/New-Assignment/static/css/main.7b909155.chunk.css",
-    "main.js": "/New-Assignment/static/js/main.3d9672d7.chunk.js",
-    "main.js.map": "/New-Assignment/static/js/main.3d9672d7.chunk.js.map",
+    "main.js": "/New-Assignment/static/js/main.6730d155.chunk.js",
+    "main.js.map": "/New-Assignment/static/js/main.6730d155.chunk.js.map",
     "runtime-main.js": "/New-Assignment/static/js/runtime-main.453f6ce4.js",
     "runtime-main.js.map": "/New-Assignment/static/js/runtime-main.453f6ce4.js.map",
-    "static/js/2.9bc12da0.chunk.js": "/New-Assignment/static/js/2.9bc12da0.chunk.js",
-    "static/js/2.9bc12da0.chunk.js.map": "/New-Assignment/static/js/2.9bc12da0.chunk.js.map",
+    "static/js/2.19e98332.chunk.js": "/New-Assignment/static/js/2.19e98332.chunk.js",
+    "static/js/2.19e98332.chunk.js.map": "/New-Assignment/static/js/2.19e98332.chunk.js.map",
     "static/js/3.56cc74a9.chunk.js": "/New-Assignment/static/js/3.56cc74a9.chunk.js",
     "static/js/3.56cc74a9.chunk.js.map": "/New-Assignment/static/js/3.56cc74a9.chunk.js.map",
     "index.html": "/New-Assignment/index.html",
     "static/css/main.7b909155.chunk.css.map": "/New-Assignment/static/css/main.7b909155.chunk.css.map",
-    "static/js/2.9bc12da0.chunk.js.LICENSE.txt": "/New-Assignment/static/js/2.9bc12da0.chunk.js.LICENSE.txt"
+    "static/js/2.19e98332.chunk.js.LICENSE.txt": "/New-Assignment/static/js/2.19e98332.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.453f6ce4.js",
-    "static/js/2.9bc12da0.chunk.js",
+    "static/js/2.19e98332.chunk.js",
     "static/css/main.7b909155.chunk.css",
-    "static/js/main.3d9672d7.chunk.js"
+    "static/js/main.6730d155.chunk.js"
   ]
 }
